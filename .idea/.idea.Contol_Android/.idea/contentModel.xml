@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\tipa_\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\tipa_\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Contol_Android.-1943454988.00" t="ExcludeRecursive" />
+    <e p="D:\Unity\UnityProjects_GitHub\Contol_Android" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="FreeButtonSet" t="Include">
+          <e p="Fonts" t="Include" />
+          <e p="Scenes" t="Include" />
+          <e p="Textures" t="Include">
+            <e p="buttons" t="Include" />
+            <e p="controls" t="Include" />
+            <e p="icons" t="Include">
+              <e p="128x128" t="Include" />
+              <e p="256x256" t="Include" />
+              <e p="32x32" t="Include" />
+              <e p="64x64" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Joystick Pack" t="Include">
+          <e p="Examples" t="Include">
+            <e p="JoystickPlayerExample.cs" t="Include" />
+            <e p="JoystickSetterExample.cs" t="Include" />
+          </e>
+          <e p="Prefabs" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="Base" t="Include">
+              <e p="Joystick.cs" t="Include" />
+            </e>
+            <e p="Editor" t="Include">
+              <e p="DynamicJoystickEditor.cs" t="Include" />
+              <e p="FloatingJoystickEditor.cs" t="Include" />
+              <e p="JoystickEditor.cs" t="Include" />
+              <e p="VariableJoystickEditor.cs" t="Include" />
+            </e>
+            <e p="Joysticks" t="Include">
+              <e p="DynamicJoystick.cs" t="Include" />
+              <e p="FixedJoystick.cs" t="Include" />
+              <e p="FloatingJoystick.cs" t="Include" />
+              <e p="VariableJoystick.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="All Axis Backgrounds" t="Include" />
+            <e p="Handles" t="Include" />
+            <e p="Horizontal Backgrounds" t="Include" />
+            <e p="Vertical Backgrounds" t="Include" />
+          </e>
+        </e>
+        <e p="Scenes" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="controler.cs" t="Include" />
+          <e p="controler1.cs" t="Include" />
+          <e p="controler2.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Contol_Android.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
